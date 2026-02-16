@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Rising",
+  "base_artist": "tripleS",
+  "createdAt": "2026-02-16T13:20:57.087278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Moon Rising",
+      "artist": "Creedence Clearwater Revival",
+      "has_synced": true,
+      "path": "select/01_Bad_Moon_Rising_Creedence_Clearwater_Revival.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "House of the Rising Sun",
+      "artist": "alt-J",
+      "has_synced": false,
+      "path": "select/02_House_of_the_Rising_Sun_alt-J.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "House of the Rising Sun",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/03_House_of_the_Rising_Sun_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Five Feet High and Rising - Live Version",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/04_Five_Feet_High_and_Rising_-_Live_Version_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Five Feet High and Rising (Live Version)",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/05_Five_Feet_High_and_Rising_(Live_Version)_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rising Down",
+      "artist": "The Roots feat. Mos Def & Styles P",
+      "has_synced": true,
+      "path": "select/06_Rising_Down_The_Roots_feat._Mos_Def_&_Styles_P.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rising Up",
+      "artist": "The Roots feat. Wale & Chrisette Michele",
+      "has_synced": false,
+      "path": "select/07_Rising_Up_The_Roots_feat._Wale_&_Chrisette_Michele.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "45 & Rising",
+      "artist": "Midnight Juggernauts",
+      "has_synced": false,
+      "path": "select/08_45_&_Rising_Midnight_Juggernauts.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "45 & Rising (live)",
+      "artist": "Midnight Juggernauts",
+      "has_synced": false,
+      "path": "select/09_45_&_Rising_(live)_Midnight_Juggernauts.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "45 And Rising",
+      "artist": "Midnight Juggernauts",
+      "has_synced": true,
+      "path": "select/10_45_And_Rising_Midnight_Juggernauts.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Dark Is Rising",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/11_The_Dark_Is_Rising_Mercury_Rev.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Rising Wind",
+      "artist": "Helios",
+      "has_synced": true,
+      "path": "select/12_A_Rising_Wind_Helios.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "House of the Rising Sun",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/13_House_of_the_Rising_Sun_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "House of the Rising Son",
+      "artist": "Sinead O'Connor",
+      "has_synced": true,
+      "path": "select/14_House_of_the_Rising_Son_Sinead_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rising",
+      "artist": "Yoko Ono feat. DJ Spooky",
+      "has_synced": false,
+      "path": "select/15_Rising_Yoko_Ono_feat._DJ_Spooky.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rising (with DJ Spooky)",
+      "artist": "Yoko Ono",
+      "has_synced": false,
+      "path": "select/16_Rising_(with_DJ_Spooky)_Yoko_Ono.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rising",
+      "artist": "tripleS",
+      "has_synced": false,
+      "path": "select/pl_01_Rising_tripleS.txt"
+    }
+  ]
+}
